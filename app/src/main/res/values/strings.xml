@@ -9,4 +9,17 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hello">Hello</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_login">Enter login</string>
+    <string name="reklama">Ваша рекламма</string>
+    <string name="login">Login</string>
+
+    <string name="navigate_to"> Navigate to</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_first_click">first click</string>
+    <string name="button_second_click">second click</string>
 </resources>
